@@ -1,4 +1,4 @@
-# Fish Classification Model README
+# Fish Classification Model 
 
 ## Proje Özeti
 **Bu proje**, bir balık sınıflandırma modeli oluşturmak amacıyla bir derin öğrenme yaklaşımı kullanmaktadır. Model, çeşitli balık türlerinin görüntülerini kullanarak bu türleri sınıflandırmayı hedefler. Projede, görüntü işleme, veri seti hazırlığı, model eğitimi ve model değerlendirmesi gibi adımlar yer almaktadır.
