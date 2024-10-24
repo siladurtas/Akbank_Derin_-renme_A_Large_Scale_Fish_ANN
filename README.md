@@ -48,6 +48,6 @@
 **Proje**, Kaggle üzerinde çalışmak üzere tasarlanmıştır. Kullanıcılar, gereken kütüphaneleri yükleyerek ve kodu çalıştırarak modelin eğitimini ve değerlendirilmesini gerçekleştirebilirler.
 
 ## Kaggle
--  https://www.kaggle.com/code/siladurtas/a-large-scale-fish-ann 
+-  https://www.kaggle.com/code/siladurtas/a-large-scale-fish-ann
 
 
